@@ -17,7 +17,7 @@ public class Snek : MonoBehaviour
         _segments = new List<Transform>();
         _segments.Add(this.transform);
     }
-
+    //Joey was here
 
     private void Update()
     {
